@@ -8,6 +8,7 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 
 #### [Medium](src/medium)
 
+- [990. Satisfiability of Equality Equations](src/medium/990_satisfiability_of_equality_equations.js)
 
 #### [Easy](src/easy)
 
