@@ -13,3 +13,4 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 
 #### [Easy](src/easy)
 
+- [687. Longest Univalue Path](src/medium/687_longest_univalue_path.js)
