@@ -8,6 +8,7 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 
 #### [Medium](src/medium)
 
+- [55. Jump Game](src/medium/55_jump_game.js)
 - [646. Maximum Length of Pair Chain](src/medium/646_maximum_length_of_pair_chain.js)
 - [990. Satisfiability of Equality Equations](src/medium/990_satisfiability_of_equality_equations.js)
 
