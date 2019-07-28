@@ -15,4 +15,5 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 #### [Easy](src/easy)
 
 - [141. Linked List Cycle](src/easy/141_linked_list_cycle.js)
+- [173. Binary Search Tree Iterator](src/easy/173_binary_search_tree_iterator.js.js)
 - [687. Longest Univalue Path](src/easy/687_longest_univalue_path.js)
