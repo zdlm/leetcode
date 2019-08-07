@@ -11,6 +11,7 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 - [55. Jump Game](src/medium/55_jump_game.js)
 - [173. Binary Search Tree Iterator](src/easy/173_binary_search_tree_iterator.js.js)
 - [646. Maximum Length of Pair Chain](src/medium/646_maximum_length_of_pair_chain.js)
+- [658. Find K Closest Elements](src/medium/658_find_k_closest_elements.js)
 - [990. Satisfiability of Equality Equations](src/medium/990_satisfiability_of_equality_equations.js)
 
 #### [Easy](src/easy)
