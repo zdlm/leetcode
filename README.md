@@ -16,5 +16,6 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 
 #### [Easy](src/easy)
 
+- [20. Valid Parentheses](src/easy/20_valid_parentheses.js)
 - [141. Linked List Cycle](src/easy/141_linked_list_cycle.js)
 - [687. Longest Univalue Path](src/easy/687_longest_univalue_path.js)
