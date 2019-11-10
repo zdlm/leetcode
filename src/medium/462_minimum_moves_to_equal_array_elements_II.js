@@ -16,7 +16,9 @@
 
 /**
  * Explanation:
- * Use stack
+ * Sort the array first
+ * Find the middle number of the array
+ * The sum of distance is the result
  */
 
 /**
