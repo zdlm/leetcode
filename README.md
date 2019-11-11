@@ -13,6 +13,7 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 - [462. Minimum Moves to Equal Array Elements II](src/medium/462_minimum_moves_to_equal_array_elements_II.js)
 - [646. Maximum Length of Pair Chain](src/medium/646_maximum_length_of_pair_chain.js)
 - [658. Find K Closest Elements](src/medium/658_find_k_closest_elements.js)
+- [692. Top K Frequent Words](src/medium/692_top_K_frequent_words.js)
 - [990. Satisfiability of Equality Equations](src/medium/990_satisfiability_of_equality_equations.js)
 
 #### [Easy](src/easy)
