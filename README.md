@@ -14,6 +14,7 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 - [646. Maximum Length of Pair Chain](src/medium/646_maximum_length_of_pair_chain.js)
 - [658. Find K Closest Elements](src/medium/658_find_k_closest_elements.js)
 - [692. Top K Frequent Words](src/medium/692_top_K_frequent_words.js)
+- [787. Cheapest Flights Within K Stops](src/medium/787_Cheapest_Flights_Within_K_Stops.js)
 - [990. Satisfiability of Equality Equations](src/medium/990_satisfiability_of_equality_equations.js)
 
 #### [Easy](src/easy)
