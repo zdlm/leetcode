@@ -21,6 +21,8 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 #### [Easy](src/easy)
 
 - [1. Two Sum](src/easy/1_Two_Sum.js)
+- [7. Reverse Integer](src/easy/7_Reverse_Integer.js)
 - [20. Valid Parentheses](src/easy/20_valid_parentheses.js)
+- [21. Merge Two Sorted Lists](src/easy/21_Merge_Two_Sorted_Lists.js)
 - [141. Linked List Cycle](src/easy/141_linked_list_cycle.js)
 - [687. Longest Univalue Path](src/easy/687_longest_univalue_path.js)
