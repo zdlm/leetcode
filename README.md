@@ -4,6 +4,7 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 
 #### [Hard](src/hard)
 
+- [4. Median of Two Sorted Arrays](src/hard/4_Median_of_Two_Sorted_Arrays.js)
 - [32. Longest Valid Parentheses](src/hard/32_longest_valid_parentheses.js)
 
 #### [Medium](src/medium)
