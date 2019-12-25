@@ -9,6 +9,7 @@ My own accepted leetcode solutions with my explanation. All the problems are mor
 
 #### [Medium](src/medium)
 
+- [2. Add Two Numbers](src/medium/2_Add_Two_Numbers.js)
 - [55. Jump Game](src/medium/55_jump_game.js)
 - [173. Binary Search Tree Iterator](src/medium/173_binary_search_tree_iterator.js)
 - [462. Minimum Moves to Equal Array Elements II](src/medium/462_minimum_moves_to_equal_array_elements_II.js)
